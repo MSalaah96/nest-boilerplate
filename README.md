@@ -24,3 +24,4 @@ TODO
 - [ ] Health Check
 - [ ] Unit Test 
 - [ ] Mongodb Database 
+- [ ] Docker file
