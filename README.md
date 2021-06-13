@@ -2,26 +2,26 @@
 
 TODO
 
-- [ ] App Configuration
-- [ ] Crypto Service
+- [ ] App Configuration *
+- [ ] Crypto Service *
 - [ ] Utils Functions
 - [ ] Event Manager  
 - [ ] Queue Managemnt
-- [ ] Authorization
+- [ ] Authorization *
 - [ ] File Uploader
-- [ ] Header Parser
-- [ ] sanitize Mongo Data
-- [ ] query parser
+- [ ] Header Parser *
+- [ ] sanitize Mongo Data *
+- [ ] query parser *
 - [ ] logger
 - [ ] sentry
-- [ ] swagger
-- [ ] Authentication
-- [ ] Authorization Memory
+- [ ] swagger *
+- [ ] Authentication *
+- [ ] Authorization Memory *
 - [ ] Authorization Database 
 - [ ] Validation
 - [ ] Serialization
-- [ ] Secutory ( helmet bcrypt CORS )
+- [ ] Secutory ( helmet bcrypt CORS ) *
 - [ ] Health Check
 - [ ] Unit Test 
-- [ ] Mongodb Database 
+- [ ] Mongodb Database *
 - [ ] Docker file
