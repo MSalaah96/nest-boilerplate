@@ -8,17 +8,17 @@ TODO
 - [ ] Event Manager  
 - [ ] Queue Managemnt
 - [ ] Authorization *
-- [ ] File Uploader
+- [ ] File Uploader *
 - [ ] Header Parser *
 - [ ] sanitize Mongo Data *
 - [ ] query parser *
 - [ ] logger
-- [ ] sentry
+- [ ] sentry *
 - [ ] swagger *
 - [ ] Authentication *
 - [ ] Authorization Memory *
 - [ ] Authorization Database 
-- [ ] Validation
+- [ ] Validation *
 - [ ] Serialization
 - [ ] Secutory ( helmet bcrypt CORS ) *
 - [ ] Health Check

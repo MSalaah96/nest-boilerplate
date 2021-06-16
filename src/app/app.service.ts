@@ -1,15 +1,12 @@
 import { Injectable } from '@nestjs/common';
 import { UserRepository } from '../database/models/user/user.repository';
+import { ConfigurationService } from '../config/configuration.service';
 
 @Injectable()
 export class AppService {
-  constructor() {}
+  constructor(private readonly configurationService: ConfigurationService) {}
 
-  getHello() {
-    // return this.userRepository.getAll(
-    //   {},
-    //   { page: 0, limit: 10, sort: {} },
-    //   false,
-    // );
+  root(): { name: string; version: number } {
+    return this.configurationService.app;
   }
 }
