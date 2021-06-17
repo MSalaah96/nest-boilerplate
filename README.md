@@ -13,7 +13,7 @@ TODO
 - [ ] sanitize Mongo Data *
 - [ ] query parser *
 - [ ] logger
-- [ ] sentry *
+- [ ] sentry 
 - [ ] swagger *
 - [ ] Authentication *
 - [ ] Authorization Memory *
@@ -25,3 +25,4 @@ TODO
 - [ ] Unit Test 
 - [ ] Mongodb Database *
 - [ ] Docker file
+  c1cb702640fea8373fdae80538355ccc643d1f5d97c26131204406301693cc1e

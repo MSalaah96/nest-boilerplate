@@ -1,5 +1,4 @@
 import { Injectable } from '@nestjs/common';
-import { UserRepository } from '../database/models/user/user.repository';
 import { ConfigurationService } from '../config/configuration.service';
 
 @Injectable()

@@ -2,15 +2,6 @@
   "collection": "@nestjs/schematics",
   "sourceRoot": "src",
   "projects": {
-    "mongodb": {
-      "type": "library",
-      "root": "libs/mongodb",
-      "entryFile": "index",
-      "sourceRoot": "libs/mongodb/src",
-      "compilerOptions": {
-        "tsConfigPath": "libs/mongodb/tsconfig.lib.json"
-      }
-    }
   },
   "compilerOptions": {
     "webpack": true
